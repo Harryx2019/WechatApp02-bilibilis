@@ -1,0 +1,5 @@
+
+page,view,image,swiper,swiper-item,navigator,video{
+  /* 组件的高度不包含margin */
+  box-sizing: border-box;
+}
